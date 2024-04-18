@@ -6,7 +6,7 @@
 #include <raylib.h>
 
 #define GRID_SIZE 1000 
-#define CELL_SIZE 20 
+#define CELL_SIZE 10 
 
 #define GRID_DIM (GRID_SIZE / CELL_SIZE)
 
