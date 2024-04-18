@@ -1,9 +1,8 @@
 # Conway's Game of Life implementation in raylib C
 
 This is a simple implementation of Conway's Game of Life simulation using C and the Raylib library. It allows you to interact with the Game of Life in two ways:
-<video width="320" height="240" controls>
-    <source src="pattern.mov" type="video/mp4">
-</video>
+
+https://github.com/FrexG/ConwaysGOL/assets/25264637/031ae1e4-d59b-48ba-9ed3-79b6c8a36879
 
 - **Drawing Patterns**: Click on the grid to manually create your initial patterns for the simulation.
 - **Loading Lexicons**: Load pre-defined patterns from ASCII lexicon text files.
