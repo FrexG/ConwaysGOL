@@ -28,14 +28,14 @@ gcc -Wall -c gol.c -o gol -lraylib
 ### run
 - Drawing patterns
 ```Bash
-./gol <sample_pattern.c>
+./gol
 ```
 Click on the grid cells to turn them alive (represented by a filled cell).
 Click again on a live cell to turn it dead (represented by an empty cell).
 Press  `Enter` to start/stop the simulation.
 - Loading Lexicons:
 ```Bash
-./gol <sample_pattern.c>
+./gol sample_pattern.txt
 ```
 Place your ASCII lexicon text files in the same directory as the executable.
 The lexicon file format should be a simple grid representation with asterisks (*) representing live cells and any other character representing dead cells.
