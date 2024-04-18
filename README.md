@@ -40,16 +40,10 @@ Press  `Enter` to start/stop the simulation.
 Place your ASCII lexicon text files in the same directory as the executable.
 The lexicon file format should be a simple grid representation with asterisks (*) representing live cells and any other character representing dead cells.
 Press the L key to open a file dialog. Select the desired lexicon file to load the pattern.
-Note:
-
+>Note:
 This is a basic implementation and may not include advanced features like wrapping around the grid edges or speed controls.
-Building Upon This:
 
-This code provides a foundation for further exploration of Conway's Game of Life. You can extend it by adding functionalities like:
-
-Grid size customization.
-Speed control for the simulation.
-Saving and loading patterns in custom formats.
 Feel free to modify and enhance the code to create your own customized Game of Life experience!
 
+`@FrexG 2024`
 
